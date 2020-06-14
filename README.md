@@ -12,7 +12,7 @@
 * [Sololearn. Python 3 Tutorial](https://www.sololearn.com/Course/Python/)
 
 ### Data Analysis: введение
-* [Udemy. Intro to Data Analysis](https://eu.udacity.com/course/intro-to-data-analysis--ud170)
+* [Udacity. Intro to Data Analysis](https://eu.udacity.com/course/intro-to-data-analysis--ud170)
 
 # 2. Месяц
 ### Data Science: введение
